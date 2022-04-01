@@ -1,8 +1,14 @@
-# In this repo you can find some cool mini projects which are based on front end
+# In this repo you can find some cool mini projects by me
 
-### Restaurant_Website:
+### Restaurant Website:
 This folder contains CSS and HTML code for a simple website which contains 3 pages and Javascript functionality like hover and a drop down box!
 
-### Simple_JS_Appication:
+### Simple JS Appication:
 This shows code for a basic JS application which does a single thing:
 * On hovering over an image on the webpage, that image is displayed on the main display box.
+
+### Gmail Inbox Outline using Python:
+This project is a python script which does the following when ran;
+* goes into your gmail inbox
+* fetches Date-Time, From and Subject of all the mails and writes them into an excel file
+* while fetching it also downloads attachments, if any!
