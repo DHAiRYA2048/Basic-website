@@ -1,2 +1,1 @@
-# Basic-website
-A basic restaurant website made using bootstrap. 
+# In this repo you can find some cool mini projects which are based on front end
